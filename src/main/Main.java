@@ -27,6 +27,8 @@ public class Main {
 		int subResult = c.subtract(10, 9);
 		System.out.println(subResult);
 		
+		System.out.println("ㄴㄴ");
+		
 	}
 
 }
