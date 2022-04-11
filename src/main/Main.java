@@ -24,6 +24,9 @@ public class Main {
 		int addResult = c.add(5, 10);
 		System.out.println(addResult);
 		
+		int subResult = c.subtract(10, 9);
+		System.out.println(subResult);
+		
 	}
 
 }
