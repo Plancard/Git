@@ -10,6 +10,9 @@ public class Main {
 		System.out.println("코드 시작");
 		
 		System.out.println("코드 끝");
+		
+		System.out.println("새 코드 시작");
+		System.out.println("끝");
 	}
 
 }
